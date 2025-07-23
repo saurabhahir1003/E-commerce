@@ -19,9 +19,6 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 - Cart: The cart displays the items, their individual prices, and the total price of all products in the cart.
 - Search: A search bar allows users to search for specific products.
 
-## Demo
-https://sajidbhatti786.github.io/Ecommerce-website/html/index.html
-
 ## Video
 [![Video Demo](https://drive.google.com/thumbnail?id=15bfnc0NbPXK9Y_X3okvU7Ym8zjIO-Us-)](https://drive.google.com/uc?id=15bfnc0NbPXK9Y_X3okvU7Ym8zjIO-Us-)
 
